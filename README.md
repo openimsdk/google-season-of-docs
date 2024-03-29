@@ -1,8 +1,8 @@
 # google-season-of-docs
 
-[![Google Summer of Code 2024](https://docs.joomla.org/images/f/f8/Gsod2019.png)](https://developers.google.com/season-of-docs)
+[![Google Season of Code 2024](https://docs.joomla.org/images/f/f8/Gsod2019.png)](https://developers.google.com/season-of-docs)
 
-OpenIM is proud to be a mentoring organization in the [ Google Summer of Docs ](https://developers.google.com/season-of-docs) (Docs) program. We are excited to have you join our community of contributors.
+OpenIM is proud to be a mentoring organization in the [ Google Season of Docs ](https://developers.google.com/season-of-docs) (Docs) program. We are excited to have you join our community of contributors.
 
 As a OpenIM community contributor, you will have an opportunity to work on exciting projects, fixes, or features of your own choosing with expert guidance and support from our team of ethusiastic community mentor(s). You'll also be networking with global open source developers and contributors and possibly learn new skills and technologies.
 
@@ -15,12 +15,8 @@ But that's not all! We believe that communication and collaboration are key to b
 
 > Go to our Slack channel `gsod-2024`
 
-If you are looking for specific information for a particular Google Summer of Docs season, please follow one of the following links:
+If you are looking for specific information for a particular Google Season of Docs season, please follow one of the following links:
 
 | Docs Season  |  Information |
 |-------|--------------|
-
-
-
-
-
+| Google Season of Docs 2024 | [Google Season of Docs 2024 Markdown](https://github.com/openimsdk/google-season-of-docs/edit/main/google-season-of-docs-2024.md) | 
