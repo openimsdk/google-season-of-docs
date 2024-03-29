@@ -1,6 +1,6 @@
 # google-season-of-docs
 
-[![Google Summer of Code 2024](https://www.google.com.hk/imgres?q=gsod&imgurl=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEjZQQ1SmJ8MrAwKQV9V4NUrbOIBXXOrcnyQXc7jkCpPZFVtOtJrJS0czDFW6uD4bvr-uCiukl1mvYE6FVbdqXEczmgKA1fvyZr4KzEz5U6hxpeIE5IEa-bNy-m_Z_G16YaBetievNjlNo86u3PT8cScpu6ymlP2UoF2J2-R3XFH05ycUDPgdJ6nRXiF%2Fs1600%2FSeasonOfDocs_Logo_Stacked.png&imgrefurl=https%3A%2F%2Fopensource.googleblog.com%2F2023%2F01%2Fannouncing-google-season-of-docs-2023.html&docid=7cfUtgRROTgFGM&tbnid=VDY15KMkFUDWtM&vet=12ahUKEwj_5fnKhpmFAxVQk1YBHfbKDAYQM3oECG4QAA..i&w=1600&h=949&hcb=2&ved=2ahUKEwj_5fnKhpmFAxVQk1YBHfbKDAYQM3oECG4QAA)](https://developers.google.com/season-of-docs)
+[![Google Summer of Code 2024](https://docs.joomla.org/images/f/f8/Gsod2019.png)](https://developers.google.com/season-of-docs)
 
 OpenIM is proud to be a mentoring organization in the [ Google Summer of Docs ](https://developers.google.com/season-of-docs) (Docs) program. We are excited to have you join our community of contributors.
 
